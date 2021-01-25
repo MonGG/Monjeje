@@ -1,0 +1,76 @@
+body{
+    color: #CCD1D1;
+    margin: 0;
+    background-image: url(../Imagenes/maa.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1em;
+    float: left;
+    /*background-size: cover;*/
+}
+ h1 {
+     color: rgb(19, 20, 70);
+     text-align: center;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ 
+ h2{
+    color:#2C3E50;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     text-align: center;
+ }
+
+ body ,header, nav ,li, a{
+    color:#142527;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+ footer{
+     font-weight: bold;
+     color: #ECF0F1 ;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+
+
+
+.all {
+    float: left;
+    padding: 4%;
+}
+
+.img {
+    width: 100%;
+    height: 80%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20px;
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li{
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    padding: 21px 25px;
+    text-align: center;
+}
+
+a:hover{
+    background-color: rgb(168, 145, 13);
+}
+nav {
+    background-color: black;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+header {
+    margin-top: 60px;
+}
