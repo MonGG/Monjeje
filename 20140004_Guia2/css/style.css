@@ -1,0 +1,15 @@
+*{
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+}
+
+section{
+    font-family: Helvetica;
+    font-size: 12px;
+    justify-content: left;
+}

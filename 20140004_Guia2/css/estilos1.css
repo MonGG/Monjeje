@@ -1,0 +1,25 @@
+*{
+    background-color: lightblue;
+    font-size: 20px;
+    
+}
+
+h2{
+    text-decoration: underline; color: #fff;
+}
+
+.d10{
+    color: navy; text-transform: uppercase;
+}
+
+.d11{
+    text-transform: uppercase; justify-content: center;
+}
+
+.d12{
+    font-size: 12px;
+}
+
+span {
+    font-style: italic;
+}
