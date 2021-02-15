@@ -22,7 +22,7 @@ I´m here
 
 <h1>Guia 3</h1>
 <h2>Ejercicios complementarios</h2>
-<a href="https://mongg.github.io/Monjeje/20140004_Guia3/EJC3/me.html>Mi página</a> <br><br>
+<a href="https://mongg.github.io/Monjeje/20140004_Guia3/EJC3/me.html>Mi página"</a> <br><br>
 
 <h2>Ejemplos</h2>
 
@@ -32,7 +32,7 @@ I´m here
 
 <h1>Guia 4</h1>
 <h2>Ejercicios complementarios</h2>
-<a href="https://mongg.github.io/Monjeje/20140004_Guia3/EJC4/index.html>Universidad</a> <br><br>
+<a href="https://mongg.github.io/Monjeje/20140004_Guia3/EJC4/index.html">Universidad</a> <br><br>
 
 <h2>Ejemplos</h2>
 
