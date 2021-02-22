@@ -1,5 +1,8 @@
-
-/*Z-Index :p*/
+*{
+    background-image: url(https://lh3.googleusercontent.com/proxy/c1By6MDVE4yLfW7OU2EAHYSagMT8H5dfBrs8ix17K7DIK1uhE4A3-_APACVK846DHgYb9NEozYbBCe5zg1qM8xN_Lr3FWSNla8zyY8J80wP7ofQvVqpnSHKhN6i1_7ZYloAZiCAC0kyxUKUi7kCj8TqVIhR2AKSZ-656xQ);
+    background-attachment: fixed;
+    color: #fff;
+}
 #asd{
     z-index: 10;
     left: 145px;
