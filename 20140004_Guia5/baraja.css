@@ -1,0 +1,58 @@
+
+/*Z-Index :p*/
+#asd{
+    z-index: 10;
+    left: 145px;
+}
+#reyd{
+    z-index: 8;
+    left: 120px;
+    top:85px;
+}
+#reinad{
+    z-index: 6;
+    left: 100px;
+    top:164px;
+}
+#sotd{
+    z-index: 4;
+    left: 70px;
+    top:250px;
+}
+#Diezd{
+    z-index: 2;
+    left: 45px;
+    top: 330px;
+}
+
+#asd, #reyd, #reinad, #sotd, #Diezd, #asd2, #reyd2, #reinad2, #sotd2, #Diezd2{
+    position: relative;
+}
+
+/*Z-Index :p*/
+#Diezd2{
+    z-index: 10;
+    left: 145px;
+}
+#sotd2{
+    z-index: 8;
+    left: 120px;
+    top:85px;
+}
+#reinad2{
+    z-index: 6;
+    left: 100px;
+    top:164px;
+}
+#reyd2{
+    z-index: 4;
+    left: 70px;
+    top:250px;
+}
+#asd2{
+    z-index: 2;
+    left: 45px;
+    top: 330px;
+}
+
+

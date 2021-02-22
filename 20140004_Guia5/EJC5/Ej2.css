@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://cdn.wallpapersafari.com/28/20/80MWuG.png);
+    background-position: center;
+    background-attachment: fixed;
+    color: #E3E3E3;
+}
+
+header{
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 40px;
+    letter-spacing: -0.2px;
+    word-spacing: -4.2px;
+    color: #E3E3E3;
+    font-weight: 700;
+    text-decoration: line-through solid rgb(37, 231, 205);
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+   
+}
+
+section
+{
+    min-height: 100vh;
+}
+
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.banner .imag{
+
+    position: absolute;
+    top: 10px;
+    left: 0;
+    width: 70%;
+    height: 70%;
+    
+}
+
+.banner .imag img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    float: left;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    
+    
+}
+
+.banner .contentBx{
+    position: relative;
+    width: 320px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background: #2c3e50;
+    background: rgba(11, 139, 148, 0.767);
+    color: #eee;
+    min-height: 500px;
+  
+   
+}
+
+li{
+    text-decoration: dashed;
+}
+
+.banner .content h4{
+
+    font-size: 2em;
+    color: #E3E3E3;
+    font-weight: 300;
+    
+}
+
+
+
+p{
+    font-size: 1.5em;
+    margin: 10px 0;
+    font-weight: 300;
+    color: azure;
+    
+}
+
+footer{
+    background-color: rgb(14, 167, 187);
+    clear: both;
+    text-align: center;
+}
