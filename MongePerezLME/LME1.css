@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Noto+Sans+JP:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
 
 
@@ -324,4 +325,332 @@ p{
 
 .sidebar ul li a:hover {
     color: aqua;
+=======
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&family=Noto+Sans+JP:wght@300&family=Source+Sans+Pro:wght@300&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://cdn.wallpapersafari.com/28/20/80MWuG.png);
+    background-position: center;
+    background-attachment: fixed;
+    color: #E3E3E3;
+}
+
+header{
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+    font-size: 40px;
+    letter-spacing: -0.2px;
+    word-spacing: 4.2px;
+    color: #E3E3E3;
+    font-weight: 700;
+    text-decoration: line-through solid rgb(37, 231, 205);
+    font-style: italic;
+    font-variant: normal;
+    text-transform: uppercase;
+   
+}
+
+section
+{
+    min-height: 100vh;
+}
+
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 80vh;
+}
+
+.banner .imag{
+
+    position: absolute;
+    top: 120px;
+    left: 0;
+    width: 70%;
+    height: 70%;
+    
+}
+
+.banner .imag img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 80%;
+    object-fit: cover;
+    float: left;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    
+    
+}
+
+.banner .sidebar{
+    position: relative;
+    width: 40px;
+    margin-left: -320px;
+    float: right;
+    overflow: hidden;
+    background: #2c3e50;
+    background: rgba(12, 15, 15, 0.418);
+    color: #eee;
+    min-height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+  
+   
+}
+
+.sidebar ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #2c3e50;
+    background: rgba(12, 15, 15, 0.418);
+}
+
+.sidebar ul li{
+    list-style: none;
+    background: #2c3e50;
+    background: rgba(12, 15, 15, 0.418);
+}
+
+.sidebar ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 2em;
+    margin: 10px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: #2c3e50;
+    background: rgba(12, 15, 15, 0.418);
+}
+
+.sidebar ul li a:hover {
+    color: aqua;
+}
+
+.banner .content h4{
+
+    font-size: 2em;
+    color: #E3E3E3;
+    font-weight: 300;
+    opacity: 50%;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.banner .content h4:hover{
+    opacity: 100%;
+}
+
+.contentBx{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 250px;
+}
+
+.contentBx .workBx{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    transition: 0.5s;
+    text-align: center;
+}
+
+
+ .contentBx .workBx:hover .textBx{
+    opacity: 1;
+}
+.contentBx .workBx .textBx h5{
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 1em;
+
+}
+
+
+p{
+    
+    margin: 10px 0;
+    font-weight: 300;
+    color: azure;
+    font-family: 'Mukta', sans-serif;
+    
+}
+
+footer{
+    background-color: rgb(14, 167, 187);
+    clear: both;
+    text-align: center;
+    word-spacing: 6.2px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+
+
+
+/*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    background-image: url(https://www.googleplaymusicdesktopplayer.com/img/par1.jpg);
+}
+
+section
+{
+    padding: 100px;
+    min-height: 100vh;
+}
+
+.banner{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.banner .imag{
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 100%;
+    object-fit: cover;
+}
+
+.banner .imag img{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.banner .content .sidebar{
+    position: absolute;
+    top: 0;
+    margin-left: -500px;
+    right: 0;
+    width: 500px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+}
+
+.banner .content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+}
+
+.ltext{
+    position: absolute;
+    top: 40px;
+    left: 100px;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background: #333;
+    color: #fff;
+    padding: 0 5px;
+
+}
+
+.banner .content h4{
+
+    font-size: 1.5em;
+    color: #333;
+    font-weight: 300;
+}
+
+.banner .content h4 span{
+    color: aqua;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.banner .content h2{
+    font-size: 3em;
+    color: #333;
+    line-height: 1em;
+}
+
+p{
+    font-size: 1.1em;
+    margin: 20px 0;
+    font-weight: 300;
+}
+
+.btn{
+    background: aqua;
+    color: #fff;
+    padding: 10px 30px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: 500;
+    letter-spacing: 2px;
+
+}
+
+.sidebar{
+    position: relative;
+    background: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 0.5%;
+    padding: 40px;
+    left: 100%;
+}
+
+
+.sidebar ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #000;
+}
+
+.sidebar ul li{
+    list-style: none;
+}
+
+.sidebar ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 2em;
+    margin: 10px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background: #000;
+}
+
+.sidebar ul li a:hover {
+    color: aqua;
+>>>>>>> 434ae81c30dbe5c0c461c119fdcaca1cd048feee
 }
