@@ -32,12 +32,12 @@ I´m here
 
 <h1>Guia 4</h1>
 <h2>Ejercicios complementarios</h2>
-<a href="https://mongg.github.io/Monjeje/20140004_Guia3/EJC4/index.html">Universidad</a> <br><br>
+<a href="https://mongg.github.io/Monjeje/20140004_Guia4/EJC4/index.html">Universidad</a> <br><br>
 
 <h2>Ejemplos</h2>
 
 <a href="https://mongg.github.io/Monjeje/20140004_Guia4/RedesSociales.html">Redes Sociales</a> <br><br>
-<a href="https://mongg.github.io/Monjeje/20140004_Guia4/universidad.html">Universidad</a> <br><br>
+<a href="https://mongg.github.io/Monjeje/20140004_Guia4/univerisdad.html">Universidad</a> <br><br>
 
 <h1>Guia 5</h1>
 <h2>Ejercicios complementarios</h2>
